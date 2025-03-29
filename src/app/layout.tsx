@@ -5,7 +5,7 @@ import { Providers } from "./Providers";
 import { Suspense } from "react";
 
 export const metadata: Metadata = {
-  title: "Liveblocks",
+  title: "Nexio - Zoho",
 };
 
 const inter = Inter({
@@ -23,13 +23,13 @@ export default function RootLayout({
     <html lang="en" className={inter.className}>
       <head>
         <link
-          href="https://liveblocks.io/favicon-32x32.png"
+          href="https://png.pngtree.com/png-clipart/20250109/original/pngtree-continuous-line-drawing-of-man-read-book-png-image_4460778.png"
           rel="icon"
           sizes="32x32"
           type="image/png"
         />
         <link
-          href="https://liveblocks.io/favicon-16x16.png"
+          href="https://png.pngtree.com/png-clipart/20250109/original/pngtree-continuous-line-drawing-of-man-read-book-png-image_4460778.png"
           rel="icon"
           sizes="16x16"
           type="image/png"
