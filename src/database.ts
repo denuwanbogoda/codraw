@@ -1,64 +1,64 @@
 const USER_INFO: Liveblocks["UserMeta"][] = [
   {
-    id: "charlie.layne@example.com",
+    id: "alex.riley@example.com",
     info: {
-      name: "Charlie Layne",
+      name: "Alex Riley",
       color: "#D583F0",
       avatar: "https://liveblocks.io/avatars/avatar-1.png",
     },
   },
   {
-    id: "mislav.abha@example.com",
+    id: "casey.taylor@example.com",
     info: {
-      name: "Mislav Abha",
+      name: "Casey Taylor",
       color: "#F08385",
       avatar: "https://liveblocks.io/avatars/avatar-2.png",
     },
   },
   {
-    id: "tatum.paolo@example.com",
+    id: "taylor.jordan@example.com",
     info: {
-      name: "Tatum Paolo",
+      name: "Taylor Jordan",
       color: "#F0D885",
       avatar: "https://liveblocks.io/avatars/avatar-3.png",
     },
   },
   {
-    id: "anjali.wanda@example.com",
+    id: "sasha.morgan@example.com",
     info: {
-      name: "Anjali Wanda",
+      name: "Sasha Morgan",
       color: "#85EED6",
       avatar: "https://liveblocks.io/avatars/avatar-4.png",
     },
   },
   {
-    id: "jody.hekla@example.com",
+    id: "jaden.henley@example.com",
     info: {
-      name: "Jody Hekla",
+      name: "Jaden Henley",
       color: "#85BBF0",
       avatar: "https://liveblocks.io/avatars/avatar-5.png",
     },
   },
   {
-    id: "emil.joyce@example.com",
+    id: "rowan.sage@example.com",
     info: {
-      name: "Emil Joyce",
+      name: "Rowan Sage",
       color: "#8594F0",
       avatar: "https://liveblocks.io/avatars/avatar-6.png",
     },
   },
   {
-    id: "jory.quispe@example.com",
+    id: "skyler.lee@example.com",
     info: {
-      name: "Jory Quispe",
+      name: "Skyler Lee",
       color: "#85DBF0",
       avatar: "https://liveblocks.io/avatars/avatar-7.png",
     },
   },
   {
-    id: "quinn.elton@example.com",
+    id: "quinn.bennett@example.com",
     info: {
-      name: "Quinn Elton",
+      name: "Quinn Bennett",
       color: "#87EE85",
       avatar: "https://liveblocks.io/avatars/avatar-8.png",
     },
